@@ -24,6 +24,16 @@ p {
   color: #2196f3;
 }
 
+#pcnav {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+#mobilenav {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
 .parallax-container {
   min-height: 300px;
   line-height: 80px;
