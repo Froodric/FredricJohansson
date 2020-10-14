@@ -24,6 +24,13 @@ p {
   color: #2196f3;
 }
 
+.img-responsive {
+  max-width: 100%;
+  padding-top: 30px;
+  height: auto;
+  object-fit: cover;
+}
+
 #pcnav {
   font-size: 1.2rem;
   font-weight: 500;
